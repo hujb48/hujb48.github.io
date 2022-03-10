@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "封雨婷"
+  name             : "   封雨婷"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "personal page"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  CSDN             : "https://blog.csdn.net/WRStop"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "sunny-fyt"
   google_plus      :
   keybase          :
   instagram        :

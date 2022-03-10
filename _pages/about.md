@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-我是一名来自山东大学软件学院的本科生，导师为[张彩明](https://www.sc.sdu.edu.cn/info/1046/2286.htm) 教授。
+我是一名来自山东大学软件学院的本科生，导师为[张彩明](https://www.sc.sdu.edu.cn/info/1046/2286.htm)教授。
 我的研究兴趣是图像分割，金融大数据。
 
 项目经历

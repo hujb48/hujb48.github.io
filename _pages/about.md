@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "封雨婷|sunny's page"
+title: "封雨婷"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

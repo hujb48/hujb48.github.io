@@ -14,11 +14,10 @@ redirect_from:
 项目经历
 ======
 基于虚拟现实的人机协同系统
-======
+
 ● 负责基于骨骼追踪的Kinect开发(C#) ,利用获取的骨骼信息增加八种手势/姿势控制人机交互与协同。获指导老师高度肯定。
-======
+
 ● 基于VE、HMD、Real-walking遥控机器人实现远程协同。基于Kinect骨骼追踪获取骨骼信息并计算线、角速度&识别姿势，同时与机器人建立连接传递控制命令;创新使用redirection walking(重定向)实现用户在小范围现实空间漫游大范围虚拟空间;使用Nginx服务器、unity3D搭建流媒体服务器 ,完成视频直播式的虚拟现实场景交互;使用腾讯云TRTC SDK扩展语音通话。
-======
 
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.

@@ -18,10 +18,13 @@ redirect_from:
 ###### 基于VE、HMD、Real-walking遥控机器人实现远程协同。基于Kinect骨骼追踪为基础，模拟平行空间实现远程协同。通过Kinect体感传感器采集人体动作信息，在电脑上进行图像处理，解析出相应的人体动作后建立socket通信向水滴机器人发送相应的控制指令，控制机器人作出实时模仿（行走）或者其他动作;创新使用redirection walking(重定向)实现用户在小范围现实空间漫游大范围虚拟空间;使用Nginx服务器、unity3D搭建流媒体服务器 ,完成视频直播式的虚拟现实场景交互;使用腾讯云TRTC SDK扩展语音通话。
 
 #### ● 12307 Train ticketing system
-###### 独立完成基于Django的web高性能火车票售票网站开发。使用支付宝沙箱技术模拟支付；爬取“中国铁路12306”列车真实数据；实现以数据库为核心、产品化导向的数据库应用铁路售票系统。
+###### 独立完成基于Django的web高性能火车票售票网站开发，功能完善。使用支付宝沙箱技术模拟真实场景支付，使用华为RDS for MySQL作为网站数据库；爬取“中国铁路12306”列车真实数据，数据量接近万级；实现以数据库为核心、产品化导向的数据库应用铁路售票系统。
 
 #### ● Box packing based on tournament tree & AVL tree
-###### 针对箱子装箱问题，基于竞赛树与AVL树，实现四种包括最先匹配法(FF)、最先匹配递减法(FFD)、最优匹配法(BF)、最优匹配递减法(BFD)在内的四种流行算法；测试实现百万级输入
+###### 针对箱子装箱问题，基于竞赛树与AVL树，实现最先匹配法(FF)、最先匹配递减法(FFD)、最优匹配法(BF)、最优匹配递减法(BFD)在内的四种流行算法；前端使用Qt进行图形用户界面设计，加入自主交互式输入箱子数量与物品数量功能模块；测试实现百万级输入，并在简单数字输出的基础上将结果可视化展示。
+
+#### ● Student idle goods trading platform
+###### 基于 Java、MySQL、Swings 实现 C/S 模式的学生闲置物品交易平台；使用 Socket 进行网络通讯；具有私聊，（匿名）投票，发布公告，查看聊天记录等功能
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).

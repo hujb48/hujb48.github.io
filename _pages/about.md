@@ -13,7 +13,7 @@ redirect_from:
 
 项目经历
 ------
-#### ●  Virtual Reality-based Human-Machine Collaboration System 
+### ●  Virtual Reality-based Human-Machine Collaboration System 
 <small> <u>负责基于骨骼追踪的Kinect开发(C#),</u>利用获取的骨骼信息控制人机交互与协同。获指导老师高度肯定。 <br> 基于VE、HMD、Real-walking遥控机器人实现远程协同。基于Kinect骨骼追踪为基础，模拟平行空间实现远程协同。通过Kinect体感传感器采集人体动作信息，在电脑上进行图像处理，解析出相应的人体动作后建立socket通信向水滴机器人发送相应的控制指令，控制机器人作出实时模仿（行走）或者其他动作;创新使用redirection walking(重定向)实现用户在小范围现实空间漫游大范围虚拟空间;使用Nginx服务器、unity3D搭建流媒体服务器 ,完成视频直播式的虚拟现实场景交互;使用腾讯云TRTC SDK扩展语音通话。 </small>
 
 ### ● 12307 Train ticketing system
@@ -35,23 +35,5 @@ redirect_from:
 
 
 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.

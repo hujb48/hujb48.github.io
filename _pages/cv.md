@@ -21,7 +21,7 @@ redirect_from:
 
 荣誉奖项
 ======
-* 山东省优秀学生 <br/>
+* 山东省优秀学生                 2022年03月<br/>
 * 国家奖学金 <br/>
 * 山东大学校级优秀学生干部 <br/>
 * 山东大学优秀共青团员 <br/>
@@ -43,16 +43,20 @@ redirect_from:
   
 校园经历
 ======
+CCF山东大学学生分会 候任主席
+山东大学软件学院学生会主席
+山东大学第三十七届学生代表大会·常任代表
+共青团山东大学第十七次代表大会·代表
+山东大学软件学院学生会·宣传部部长
 
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+  #<ul>{% for post in site.publications %}
+    #{% include archive-single-cv.html %}
+  #{% endfor %}</ul>
   
-Talks
+#Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}

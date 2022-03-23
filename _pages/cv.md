@@ -21,8 +21,8 @@ redirect_from:
 
 荣誉奖项
 -------
-  * <small>山东省优秀学生 </small>
-  * <small>国家奖学金 </small>
+  * <small>__山东省优秀学生__ </small>
+  * <small>__国家奖学金__ </small>
   * <small>山东大学校级优秀学生干部 </small>
   * <small>山东大学优秀共青团员 </small>
   * <small>山东大学软件学院“榜样的力量”年度人物 </small>
@@ -43,8 +43,8 @@ redirect_from:
   
 校园经历
 -------
-  * <small>CCF山东大学学生分会 候任主席 </small><br/>
-  * <small>山东大学软件学院学生会 主席 </small><br/>
+  * <small>__CCF山东大学学生分会·候任主席__ </small><br/>
+  * <small>__山东大学软件学院学生会·主席__ </small><br/>
   * <small>山东大学第三十七届学生代表大会·常任代表 </small><br/>
   * <small>共青团山东大学第十七次代表大会·代表 </small><br/>
   * <small>山东大学软件学院学生会·宣传部部长 </small><br/>

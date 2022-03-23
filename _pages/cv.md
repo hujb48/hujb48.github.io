@@ -21,8 +21,8 @@ redirect_from:
 
 荣誉奖项
 -------
-* 山东省优秀学生 #&8195&emsp&emsp&emsp&emsp&emsp&emsp&emsp 2022年03月 <br/>
-* 国家奖学金 <br/>
+#### * 山东省优秀学生 #&8195&emsp&emsp&emsp&emsp&emsp&emsp&emsp 2022年03月 <br/>
+### * 国家奖学金 <br/>
 * 山东大学校级优秀学生干部 <br/>
 * 山东大学优秀共青团员 <br/>
 * 山东大学软件学院“榜样的力量”年度人物 <br/>

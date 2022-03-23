@@ -21,7 +21,7 @@ redirect_from:
 
 荣誉奖项
 ======
-* 山东省优秀学生                 2022年03月<br/>
+* 山东省优秀学生 &emsp&emsp&emsp&emsp&emsp&emsp&emsp&emsp 2022年03月<br/>
 * 国家奖学金 <br/>
 * 山东大学校级优秀学生干部 <br/>
 * 山东大学优秀共青团员 <br/>
@@ -49,25 +49,3 @@ redirect_from:
 共青团山东大学第十七次代表大会·代表 <br/>
 山东大学软件学院学生会·宣传部部长 </small>
 
-
-#Publications
-#======
-  #<ul>{% for post in site.publications %}
-    #{% include archive-single-cv.html %}
-  #{% endfor %}</ul>
-  
-#Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

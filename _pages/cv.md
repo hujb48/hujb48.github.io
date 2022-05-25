@@ -22,12 +22,18 @@ redirect_from:
 荣誉奖项
 -------
   * <small>__山东省优秀学生__ </small>
+  * <small>__美国大学生数学建模竞赛- Meritorious Winner__ </small>
   * <small>__国家奖学金__ </small>
+  * <small>__山东大学学生创新创业先进个人__ </small>
   * <small>山东大学校级优秀学生干部 </small>
   * <small>山东大学优秀共青团员 </small>
   * <small>山东大学软件学院“榜样的力量”年度人物 </small>
   * <small>潍柴动力社会奖学金 </small>
  
+科研经历
+-------
+* 基于Unet与抗噪FCM结合的图像分割模型 <br/>
+* <small>模型创新结合深度学习网络与传统方法，使用Unet深度学习模型与Canny边缘检测算法存储图像边缘，以优化基于二次多项式的抗噪FCM传统模型的初始分割中心；使用ISBI挑战的医学图像数据集，在灰度图像的基础上拓展多通道彩色图像输入，并进行图像增强预处理。 </small><br/>
   
 项目经历
 -------
@@ -43,7 +49,7 @@ redirect_from:
   
 校园经历
 -------
-  * <small>__CCF山东大学学生分会·候任主席__ </small><br/>
+  * <small>__CCF山东大学学生分会·副主席__ </small><br/>
   * <small>__山东大学软件学院学生会·主席__ </small><br/>
   * <small>山东大学第三十七届学生代表大会·常任代表 </small><br/>
   * <small>共青团山东大学第十七次代表大会·代表 </small><br/>

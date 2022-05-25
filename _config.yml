@@ -56,6 +56,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+CSDN:
 twitter:
   username               : &twitter
 facebook:
@@ -86,7 +87,7 @@ author:
   location         : "Jinan"
   CSDN             : "https://blog.csdn.net/WRStop"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   CSDN             : "https://blog.csdn.net/WRStop"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -104,7 +105,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

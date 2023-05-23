@@ -12,11 +12,11 @@ I am currently an Engineer PhD Student in the Nankai University, advised by Prof
 
 Education
 ------
-2022.09 - Now, Ph.D. student, Artificial intelligence, Nankai University, Tianjin, China.<br> 
+2022.09 - Now, Ph.D. student, Artificial intelligence, Nankai University, China.<br> 
 
-2018.09 - 2021.06, M.S. Electronics and Communication Engineering, Ningbo University, Ningbo, China.<br> 
+2018.09 - 2021.06, M.S. Electronics and Communication Engineering, Ningbo University, China.<br> 
 
-2013.09 - 2017.06, B.S. Communication engineering, Hangzhou Dianzi University, Hangzhou, China.<br> 
+2013.09 - 2017.06, B.S. Communication engineering, Hangzhou Dianzi University, China.<br> 
 
 Publications
 ------

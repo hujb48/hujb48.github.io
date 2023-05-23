@@ -82,14 +82,13 @@ analytics:
 # Site Author
 author:
   name             : " Jinbin Hu （胡晋滨）"
-  avatar           : "head portrait2.png"
-  bio              : "personal page"
+  avatar           : "img_hu.jpg"
+  bio              : "Engineering PhD Student"
   location         : "Tianjin"
   CSDN             : "https://blog.csdn.net/hujb48"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  CSDN             : "https://blog.csdn.net/WRStop"
-  email            :
+  email            : "hujinbin@mail.nankai.edu.cn"
   researchgate     :  # 
   uri              :
   bitbucket        :

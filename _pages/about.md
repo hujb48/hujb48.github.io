@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Engineer PhD Student in the Nankai University, advised by Prof. Yanding Qin. I received BS in 2013 from Hangzhou Dianzi University and MS in 2018 from Ningbo University (Advised by Prof. Fengshao).
+I am currently an Engineer PhD Student in the Nankai University, advised by Prof. <a href="https://ai.nankai.edu.cn/info/1034/5201.htm" title="Yanding Qin">Yanding Qin</a>. I received BS in 2013 from Hangzhou Dianzi University and MS in 2018 from Ningbo University, Advised by Prof. <a href="https://tutors.eol.cn/web/index/tabledetails?service_id=36&tutor_id=7988&rel=3&type=1" title="Feng Shao">Feng Shao</a>.
 
 Education
 ------

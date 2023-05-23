@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sunny's Page"
+title                    : "Jinbin Hu's Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://sunny-fyt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hujb48.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,16 +81,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "   封雨婷"
+  name             : " Jinbin Hu （胡晋滨）"
   avatar           : "head portrait2.png"
   bio              : "personal page"
-  location         : "Jinan"
-  CSDN             : "https://blog.csdn.net/WRStop"
+  location         : "Tianjin"
+  CSDN             : "https://blog.csdn.net/hujb48"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   CSDN             : "https://blog.csdn.net/WRStop"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # 
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sunny-fyt"
+  github           : "hujb48"
   google_plus      :
   keybase          :
   instagram        :

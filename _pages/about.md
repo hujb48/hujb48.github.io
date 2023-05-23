@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "封雨婷"
+title: "胡晋滨"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-> 我是一名来自山东大学软件学院的本科生，导师为[张彩明](https://www.sc.sdu.edu.cn/info/1046/2286.htm)教授.<br/>
-> 我的研究兴趣是人工智能、计算机视觉、数据挖掘、多媒体、脑机接口与金融大数据。
+I am currently an Engineer PhD Student in the Nankai University, advised by Prof. Yanding Qin. I received BS in 2013 from Hangzhou Dianzi University and MS in 2018 from Ningbo University (Advised by Prof. Fengshao).
 
-科研经历
+Education
 ------
+2022.09 - , Ph.D. student, Artificial intelligence, Nankai University, Tianjin, China.
+2018.09-2021.06, M.S. Electronics and Communication Engineering, Ningbo University, Ningbo, China.
+2013.09-2017.06, B.S. Communication engineering, Hangzhou Dianzi University, Hangzhou, China.
+
 ### ●  基于Unet与抗噪FCM的图像分割 
 <small> 模型创新结合深度学习网络与传统方法，使用Unet深度学习模型与Canny边缘检测算法存储图像边缘，以优化基于二次多项式的抗噪FCM传统模型的初始分割中心；使用ISBI挑战的医学图像数据集，在灰度图像的基础上拓展多通道彩色图像输入，并进行图像增强预处理。
 </small>

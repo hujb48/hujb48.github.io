@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jinbin Hu's Page"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "personal description"
+description              : "Engineering PhD Student"
 url                      : "https://hujb48.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -56,7 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-CSDN:
 twitter:
   username               : &twitter
 facebook:
@@ -83,9 +82,9 @@ analytics:
 author:
   name             : " Jinbin Hu （胡晋滨）"
   avatar           : "img_hu.jpg"
-  bio              : "Engineering PhD Student"
+  bio              : 
   location         : "Tianjin"
-  CSDN             : "https://blog.csdn.net/hujb48"
+  googlescholar    : "https://scholar.google.com/citations?user=yb7jxewAAAAJ&hl=en&oi=ao"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "hujinbin@mail.nankai.edu.cn"
@@ -110,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

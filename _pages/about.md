@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jinbin Hu"
+title: "Jinbin Hu（胡晋滨）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,4 +24,4 @@ Publications
 
 2. Deep Network Based Stereoscopic Image Quality Assessment via Binocular Summing and Differencing. <br> **Jinbin Hu**, Xuejin Wang, Xiongli Chai, Feng Shao, Qiuping Jiang. <br> *Journal of Visual Communication and Image Representation*. (2022)
 
-3. TSPR: Deep network-based blind image quality assessment using two-side pseudo reference images. <br> **Jinbin Hu**, Xuejin Wang, Feng Shao, Qiuping Jiang. *Digital Signal Processing*. (2020)
+3. TSPR: Deep network-based blind image quality assessment using two-side pseudo reference images. <br> **Jinbin Hu**, Xuejin Wang, Feng Shao, Qiuping Jiang. <br> *Digital Signal Processing*. (2020)

@@ -22,6 +22,8 @@ Publications
 ------
 1. A<sup>2</sup>OURSR: Adaptive Adjustment Based Real MRI Super-resolution via Opinion-unaware Measurements. <br> Yanding Qin, **Jinbin Hu**, Jianda Han. <br> *Computerized Medical Imaging and Graphics*. (2023)<a href="https://www.sciencedirect.com/science/article/pii/S0895611123000654" title="2023_CMIG_A2OURSR">[PDF]</a>
 
-2. Deep Network Based Stereoscopic Image Quality Assessment via Binocular Summing and Differencing. <br> **Jinbin Hu**, Xuejin Wang, Xiongli Chai, Feng Shao, Qiuping Jiang. <br> *Journal of Visual Communication and Image Representation*. (2022)<a href="https://www.sciencedirect.com/science/article/pii/S1051200420301949" title="2022_JVCIR_Deep_Ste_SD_IQA">[PDF]</a>
+2. MS<sup>2</sup>CAM: Multi-Scale Self-Cross-Attention Mechanism-Based MRI Super-Resolution. <br> Yanding Qin, **Jinbin Hu**, Hongpeng Wang, Jianda Han. <br> *IEEE Transactions on Radiation and Plasma Medical Sciences*. (under review)
 
-3. TSPR: Deep Network-based Blind Image Quality Assessment Using Two-side Pseudo Reference Images. <br> **Jinbin Hu**, Xuejin Wang, Feng Shao, Qiuping Jiang. <br> *Digital Signal Processing*. (2020)<a href="https://www.sciencedirect.com/science/article/pii/S1047320321002820" title="2020_DSP_TSPR">[PDF]</a>
+3. Deep Network Based Stereoscopic Image Quality Assessment via Binocular Summing and Differencing. <br> **Jinbin Hu**, Xuejin Wang, Xiongli Chai, Feng Shao, Qiuping Jiang. <br> *Journal of Visual Communication and Image Representation*. (2022)<a href="https://www.sciencedirect.com/science/article/pii/S1051200420301949" title="2022_JVCIR_Deep_Ste_SD_IQA">[PDF]</a>
+
+4. TSPR: Deep Network-based Blind Image Quality Assessment Using Two-side Pseudo Reference Images. <br> **Jinbin Hu**, Xuejin Wang, Feng Shao, Qiuping Jiang. <br> *Digital Signal Processing*. (2020)<a href="https://www.sciencedirect.com/science/article/pii/S1047320321002820" title="2020_DSP_TSPR">[PDF]</a>

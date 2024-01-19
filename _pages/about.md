@@ -20,11 +20,11 @@ Education
 
 Publications
 ------
-1. Subdivision Feature-Guided Brain MRI Super-Resolution via Forward and Backward Propagation. <br>  **Jinbin Hu**, Xiaoxue Sun, Xinhao Bai, Yanding Qin, Hongpeng Wang, Jianda Han. <br> *The 49th IEEE International Conference on Acoustics, Speech, & Signal Processing.* (ICASSP 2024, Accept)
+1. MS<sup>2</sup>CAM: Multi-Scale Self-Cross-Attention Mechanism-Based MRI Super-Resolution. <br> Yanding Qin, **Jinbin Hu**, Hongpeng Wang, Jianda Han. <br> *Knowledge-Based Systems*. (Under review)
 
-2. A<sup>2</sup>OURSR: Adaptive Adjustment Based Real MRI Super-Resolution via Opinion-Unaware Measurements. <br> Yanding Qin, **Jinbin Hu**, Jianda Han. <br> *Computerized Medical Imaging and Graphics*. (2023)<a href="https://www.sciencedirect.com/science/article/pii/S0895611123000654" title="2023_CMIG_A2OURSR">[PDF]</a>
+2. Subdivision Feature-Guided Brain MRI Super-Resolution via Forward and Backward Propagation. <br>  **Jinbin Hu**, Xiaoxue Sun, Xinhao Bai, Yanding Qin, Hongpeng Wang, Jianda Han. <br> *The 49th IEEE International Conference on Acoustics, Speech, & Signal Processing.* (ICASSP 2024, Accept)
 
-3. MS<sup>2</sup>CAM: Multi-Scale Self-Cross-Attention Mechanism-Based MRI Super-Resolution. <br> Yanding Qin, **Jinbin Hu**, Hongpeng Wang, Jianda Han. <br> *IEEE Transactions on Emerging Topics in Computational Intelligence*. (Under review)
+3. A<sup>2</sup>OURSR: Adaptive Adjustment Based Real MRI Super-Resolution via Opinion-Unaware Measurements. <br> Yanding Qin, **Jinbin Hu**, Jianda Han. <br> *Computerized Medical Imaging and Graphics*. (2023)<a href="https://www.sciencedirect.com/science/article/pii/S0895611123000654" title="2023_CMIG_A2OURSR">[PDF]</a>
 
 4. Deep Network Based Stereoscopic Image Quality Assessment via Binocular Summing and Differencing. <br> **Jinbin Hu**, Xuejin Wang, Xiongli Chai, Feng Shao, Qiuping Jiang. <br> *Journal of Visual Communication and Image Representation*. (2022)<a href="https://www.sciencedirect.com/science/article/pii/S1051200420301949" title="2022_JVCIR_Deep_Ste_SD_IQA">[PDF]</a>
 

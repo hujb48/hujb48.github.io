@@ -20,7 +20,7 @@ Education
 
 Publications
 ------
-1. MS<sup>2</sup>CAM: Multi-Scale Self-Cross-Attention Mechanism-Based MRI Super-Resolution. <br> Yanding Qin, **Jinbin Hu**, Hongpeng Wang, Jianda Han. <br> *Neurocomputing*. (Under review)
+1. MS<sup>2</sup>CAM: Multi-Scale Self-Cross-Attention Mechanism-Based MRI Super-Resolution. <br> Yanding Qin, **Jinbin Hu**, Hongpeng Wang, Jianda Han. <br> *Computers in Biology and Medicine*. (Under review)
 
 2. Subdivision Feature-Guided Brain MRI Super-Resolution via Forward and Backward Propagation. <br>  **Jinbin Hu**, Xiaoxue Sun, Xinhao Bai, Yanding Qin, Hongpeng Wang, Jianda Han. <br> *The 49th IEEE International Conference on Acoustics, Speech, & Signal Processing.* (ICASSP 2024, Accept)
 

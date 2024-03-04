@@ -28,4 +28,4 @@ Publications
 
 4. Deep Network Based Stereoscopic Image Quality Assessment via Binocular Summing and Differencing. <br> **Jinbin Hu**, Xuejin Wang, Xiongli Chai, Feng Shao, Qiuping Jiang. <br> *Journal of Visual Communication and Image Representation*. (2022)<a href="https://www.sciencedirect.com/science/article/pii/S1051200420301949" title="2022_JVCIR_Deep_Ste_SD_IQA">[PDF]</a>
 
-5. TSPR: Deep Network-Based Blind Image Quality Assessment Using Two-Side Pseudo Reference Images. <br> **Jinbin Hu**, Xuejin Wang, Feng Shao, Qiuping Jiang. <br> *Digital Signal Processing*. (2020)<a href="https://www.sciencedirect.com/science/article/pii/S1047320321002820" title="2020_DSP_TSPR">[PDF]</a>
+5. TSPR: Deep Network-Based Blind Image Quality Assessment Using Two-Side Pseudo Reference Images. <br> **Jinbin Hu**, Xuejin Wang, Feng Shao, Qiuping Jiang. <br> *Digital Signal Processing*. (2020)<a href="https://www.sciencedirect.com/science/article/abs/pii/S1051200420301949" title="2020_DSP_TSPR">[PDF]</a>

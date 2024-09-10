@@ -20,12 +20,12 @@ Education
 
 Publications
 ------
-1. MS<sup>2</sup>CAM: Multi-Scale Self-Cross-Attention Mechanism-Based MRI Super-Resolution. <br> **Jinbin Hu**, Yanding Qin, Hongpeng Wang, Jianda Han. <br> *Biomedical Signal Processing and Control*. (Under review)
+1. MS<sup>2</sup>CAM: Multi-Scale Self-Cross-Attention Mechanism-Based MRI Super-Resolution. <br> **Jinbin Hu**, Yanding Qin, Hongpeng Wang, Jianda Han. <br> *Displays*. (Under review)
 
-2. Subdivision Feature-Guided Brain MRI Super-Resolution via Forward and Backward Propagation. <br>  **Jinbin Hu**, Xiaoxue Sun, Xinhao Bai, Yanding Qin, Hongpeng Wang, Jianda Han. <br> *The 49th IEEE International Conference on Acoustics, Speech, & Signal Processing.* (2024)<a href="https://ieeexplore.ieee.org/document/10448434" title="2024_ICASSP_SUBDIVISION">[PDF]</a>
+2. Subdivision Feature-Guided Brain MRI Super-Resolution via Forward and Backward Propagation. <br>  **Jinbin Hu**, Xiaoxue Sun, Xinhao Bai, Yanding Qin, Hongpeng Wang, Jianda Han. <br> *The 49th IEEE International Conference on Acoustics, Speech, & Signal Processing.* (2024)<a href="https://ieeexplore.ieee.org/document/10448434" title="2024_ICASSP_SUBDIVISION">[Link]</a>
 
-3. A<sup>2</sup>OURSR: Adaptive Adjustment Based Real MRI Super-Resolution via Opinion-Unaware Measurements. <br> Yanding Qin, **Jinbin Hu**, Jianda Han. <br> *Computerized Medical Imaging and Graphics*. (2023)<a href="https://www.sciencedirect.com/science/article/pii/S0895611123000654" title="2023_CMIG_A2OURSR">[PDF]</a>
+3. A<sup>2</sup>OURSR: Adaptive Adjustment Based Real MRI Super-Resolution via Opinion-Unaware Measurements. <br> Yanding Qin, **Jinbin Hu**, Jianda Han. <br> *Computerized Medical Imaging and Graphics*. (2023)<a href="https://www.sciencedirect.com/science/article/pii/S0895611123000654" title="2023_CMIG_A2OURSR">[Link]</a>
 
-4. Deep Network Based Stereoscopic Image Quality Assessment via Binocular Summing and Differencing. <br> **Jinbin Hu**, Xuejin Wang, Xiongli Chai, Feng Shao, Qiuping Jiang. <br> *Journal of Visual Communication and Image Representation*. (2022)<a href="https://www.sciencedirect.com/science/article/abs/pii/S1047320321002820" title="2022_JVCIR_Deep_Ste_SD_IQA">[PDF]</a>
+4. Deep Network Based Stereoscopic Image Quality Assessment via Binocular Summing and Differencing. <br> **Jinbin Hu**, Xuejin Wang, Xiongli Chai, Feng Shao, Qiuping Jiang. <br> *Journal of Visual Communication and Image Representation*. (2022)<a href="https://www.sciencedirect.com/science/article/abs/pii/S1047320321002820" title="2022_JVCIR_Deep_Ste_SD_IQA">[Link]</a>
 
-5. TSPR: Deep Network-Based Blind Image Quality Assessment Using Two-Side Pseudo Reference Images. <br> **Jinbin Hu**, Xuejin Wang, Feng Shao, Qiuping Jiang. <br> *Digital Signal Processing*. (2020)<a href="https://www.sciencedirect.com/science/article/abs/pii/S1051200420301949" title="2020_DSP_TSPR">[PDF]</a>
+5. TSPR: Deep Network-Based Blind Image Quality Assessment Using Two-Side Pseudo Reference Images. <br> **Jinbin Hu**, Xuejin Wang, Feng Shao, Qiuping Jiang. <br> *Digital Signal Processing*. (2020)<a href="https://www.sciencedirect.com/science/article/abs/pii/S1051200420301949" title="2020_DSP_TSPR">[Link]</a>

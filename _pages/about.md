@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Engineer PhD Student in the Nankai University, advised by Prof. <a href="https://ai.nankai.edu.cn/info/1033/5385.htm" title="Yanding Qin">Yanding Qin</a>. I received BS in 2013 from Hangzhou Dianzi University and MS in 2018 from Ningbo University, Advised by Prof. <a href="https://zhaosheng.eol.cn/11646/tutors/index/daoshidetail?school_id=461&m_id=35908&ds_id=20356" title="Feng Shao">Feng Shao</a>.
+I am currently an Engineer PhD Student in Nankai University, advised by Prof. <a href="https://ai.nankai.edu.cn/info/1033/5385.htm" title="Yanding Qin">Yanding Qin</a>. I received BS in 2017 from Hangzhou Dianzi University and MS in 2021 from Ningbo University, Advised by Prof. <a href="https://zhaosheng.eol.cn/11646/tutors/index/daoshidetail?school_id=461&m_id=35908&ds_id=20356" title="Feng Shao">Feng Shao</a>.
 
 Education
 ------
